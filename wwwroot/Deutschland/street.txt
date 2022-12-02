@@ -1,0 +1,299 @@
+Bielertstr
+In den Blechenhöfen
+StephanLochnerStr
+Am Kühnsbusch
+Berliner Str
+AdalbertStifterStr
+HeinrichStrerathStr
+Muldestr
+Ilmstr
+Grüner Weg
+Ropenstaller Weg
+An der Feldgasse
+AWvHofmannStr
+Am Köllerweg
+ElisabethvonThaddenStr
+Kreuzkamp
+Pescher Busch
+Dürerstr
+WinandRossiStr
+FriedrichBergiusPlatz
+Auestr
+Im Buchenhain
+Am Alten Gaswerk
+Oulustr
+Höfer Weg
+Uhlandstr
+ThomasvonAquinStr
+YitzhakRabinStr
+Ankerweg
+Pappelweg
+Kolpingstr
+Bonner Str
+TheodorAdornoStr
+An der Dingbank
+Schleiermacherstr
+Kleiberweg
+Am Köttersbach
+Florianweg
+Leineweberstr
+KarlArnoldStr
+Grundermühlenhof
+Feldtorstr
+Paracelsusstr
+Gut Reuschenberg
+Birkenweg
+HermannHesseStr
+Jägerstr
+An der Evangelischen Kirche
+Im Scheffengarten
+DrAugustBlankStr
+OttoWelsStr
+RheinWupperPlatz
+Maybachstr
+Am Weingarten
+Spandauer Str
+Bernsteinstr
+Am Schokker
+Winterberg
+Weizkamp
+Völklinger Str
+MartinBuberStr
+Grünstr
+Sanddornstr
+Lucasstr
+Im Kalkfeld
+Im Burgfeld
+Hummelweg
+Flensburger Str
+Nauener Str
+HeinrichLützenkirchenWeg
+Leinestr
+JohannJanssenStr
+Maurinusstr
+Muhrgasse
+Marienwerderstr
+Löfflerstr
+Prießnitzstr
+Im Grunde
+KätheKollwitzStr
+Teltower Str
+Holzer Weg
+Alt Steinbücheler Weg
+VonBrentanoStr
+WilhelmBuschStr
+Kockelsberg
+Engstenberger Weg
+Frischenberg
+Scharnhorststr
+Dahlemer Str
+Pestalozzistr
+Danziger Str
+Tannenweg
+Moselstr
+Im Steinfeld
+Knochenbergsweg
+Ackerweg
+Opladener Str
+ErichHeckelStr
+KarlWichmannStr
+Uppersberg
+Am Neuenhof
+Hegelstr
+Farnweg
+Auf dem Weierberg
+Bahnallee
+Auf der Donnen
+FerdinandLassalleStr
+Am Sonnenhang
+Zedernweg
+Köpenicker Str
+Schöffenweg
+GisbertCremerStr
+Altenberger Str
+HeinrichvonStephanStr
+Biesenbach
+EwaldFlammeStr
+Josefstr
+Kämpenwiese
+Am Kettnersbusch
+Am Steinberg
+In Holzhausen
+KarlWingchenStr
+CarlLeverkusStr
+Schillerstr
+Starenweg
+Humperdinckstr
+Wittenbergstr
+KarlMarxStr
+VonKnoeringenStr
+Herzogstr
+Flotowstr
+Schwalbenweg
+MaxHorkheimerStr
+Glücksburger Str
+Parkstr
+OttoGrimmStr
+VonPettenkoferStr
+JohannWirtzWeg
+MaxErnstStr
+RatDeycksStr
+Fixheider Str
+Kinderhausen
+Am Sandberg
+Am Mittelberg
+Oderstr
+Auf dem Lehn
+Rheinstr
+Talstr
+Imbacher Weg
+Im Friedenstal
+Merziger Str
+AlfredKubinStr
+Kleingansweg
+Am Jägerhof
+FranzHitzeStr
+Röntgenstr
+Salamanderweg
+In der Dasladen
+Morsbroicher Str
+Ginsterweg
+Erlenweg
+AdolfReichweinStr
+Ruhlachstr
+Concordiastr
+CarloMierendorffStr
+Zschopaustr
+Montessoriweg
+Am Gesundheitspark
+Am Telegraf
+Kumper Weg
+Neustadtstr
+Hufer Weg
+Scheidemannstr
+Erzbergerstr
+ArnoldOhletzStr
+BrüderBonhoefferStr
+VonSieboldStr
+Straßburger Str
+Steinweg
+Ahornweg
+Schwarzastr
+BerthaMiddelhauveStr
+Oststr
+UlrichvonHassellStr
+Hagenauer Str
+Höhenstr
+ElseLaskerSchülerStr
+Obere Lindenstr
+An der Fettehenne
+Pastorskamp
+Gartenstr
+Kämpchenstr
+Auf der Grieße
+Jüch
+Telegrafenstr
+Kamptalweg
+Am Quettinger Feld
+Stephanusstr
+Haydnstr
+Langenfelder Str
+Heckenweg
+AdolfBaeyerStr
+Buschkämpchen
+Löchergraben
+Bismarckstr
+Rheindorfer Str
+Borsigstr
+HermannNörrenbergStr
+Dünfelder Str
+Overfeldweg
+Im Dorf
+Breslauer Str
+Bergstr
+Pützdelle
+Wolkenburgstr
+PfarrerKleinStr
+TheodorHeussRing
+JohannesBaptistStr
+Roonstr
+Pregelstr
+Zeisigweg
+Aldegundisstr
+Schloßstr
+Stresemannplatz
+Dresdener Str
+Quettinger Str
+Buchenweg
+Marienburger Str
+Speestr
+Teitscheider Weg
+Eschenallee
+Beckers Kämpchen
+RudolfMannPlatz
+Am Brungen
+Im Hederichsfeld
+Hubertusweg
+Unstrutstr
+Bohnenkampsweg
+Obere Str
+KaiserWilhelmAllee
+Feuerbachstr
+Odenthaler Str
+Menchendahler Str
+In der Höhle
+HeinrichBrüningStr
+Rückertstr
+AlfredDelpStr
+CarlDuisbergPlatz
+DechantFeinStr
+Görresstr
+Loheweg
+Carl-Maria-von-Weber-Platz
+Höltgestal
+Max-Scheler-Str
+Solinger Str
+In der Hartmannswiese
+Fortunastr
+Dürscheider Weg
+Dudweilerstr
+Händelstr
+Auerweg
+Gustav-Freytag-Str
+Vereinsstr
+JakobEulenbergWeg
+Edmund-Husserl-Str
+Saalestr
+Birkenbergstr
+Rotdornweg
+Hans-Schlehahn-Str
+Hebbelstr
+Am Thelenhof
+Robert-Medenwald-Str
+An der Lichtenburg
+Am Vogelkreuz
+Marie-Curie-Str
+Wuppertalstr
+Fliederweg
+Am Kronefeld
+Dillinger Str
+Ulmer Str
+Renkgasse
+Friedrichstr
+Große Kirchstr
+Von-Ketteler-Str
+Diepental
+Edelrather Weg
+Strombergstr
+Auf dem Stein
+Kantstr
+Im Bruch
+Fridtjof-Nansen-Str
+Hanna-hHöch-Str
+Espenweg
+Florastr
+Grunewaldstr
+Am Wasserturm
+An St Andreas
+Heidestr
+Robert-Blum-Str

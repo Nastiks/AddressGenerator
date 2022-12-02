@@ -1,0 +1,337 @@
+Názovská
+Jirkovská
+Soběšínská
+Chudenická
+U Sokolovny
+Čapkova
+Pod Starákem
+Vlastislavova
+U Vrby
+Holubova
+Bubnova
+Pod Sady
+Chlebovická
+U Dálnice
+Násirovo Náměstí
+Modřanská
+Na Dračkách
+Stehlíkova
+Nechvalická
+Dědinská
+Na Královně
+U Berounky
+Na Strži
+V Jámě
+Svahová
+Žirovnická
+U Stárovny
+V Záhybu
+Plánická
+Soběslavská
+U Vizerky
+Červenkova
+Zámecká
+K Návrší
+K Mostku
+Valentinská
+Ivančická
+Do Zahrádek Ii
+U Břehu
+V Parníku
+Za Hájem
+Nádražní
+Boženy Němcové
+Na Hrádku
+Čejkovická
+Hostošova
+Peceradská
+Na Klínech
+Mariánské Hradby
+Gogolova
+Krajanská
+V Domově
+Pod Areálem
+Karla Tomáše
+Nekázanka
+Karfíkova
+Na Pozorce
+Štolmířská
+Nad Turbovou
+Žampiónová
+Služeb
+Machuldova
+Chotěšovská
+Radhošťská
+Charvátova
+Sadská
+Dittrichova
+Mladých
+Na Střelnici
+Kaňkovského
+Karla Michala
+Miřetická
+Mezi Chatami
+Souběžná Iii
+Reinerova
+Jerevanská
+Rabyňská
+Jaspisová
+Mezibranská
+Suchdolská
+Bílá
+Častavina
+Kotevní
+Nad Kolonií
+Mrákovská
+Pod Vlastním Krovem
+Kaňkova
+Nad Panenskou
+Sněžná
+K Jinočanům
+Rozhovická
+Pod Plynojemem
+Krčská
+Nedvědovo Náměstí
+Nad Lukami
+Seminářská Zahrada
+Františka Křížka
+Nad Závodištěm
+Pod Javory
+Lumírova
+Bohdanečská
+U Obce
+Podlesek
+Výtoňská
+Horovo Nám
+Předbořská
+Petrské Nám
+V Parcelách
+Finkovská
+Lužická
+Bílinská
+Riegrova
+Pod Táborem
+Rabasova
+Šubertova
+Na Korunce
+Loretánské Nám
+U Vojenské Nemocnice
+Šestajovická
+Na Laurové
+Měšínská
+Běchorská
+Farkašova
+Na Dlážděnce
+V Parku
+Ke Kostelíčku
+Kosmonoská
+Voňkova
+Dalešická
+Izraelská
+Na Konečné
+Horšovská
+Moldavská
+V Hájích
+Poříčská
+Trojská
+V Aleji
+Magistrů
+Macháčkova
+Pešlova
+Nad Václavkou
+Filipíny Welserové
+Generála Mejstříka
+Holešovické Nábřeží
+Za Černým Mostem
+Čibuzská
+Před Ústavem
+Václavická
+V Roklích
+Adamovská
+Dělnická
+17 Listopadu
+Borodinská
+Škvorecká
+V Bokách Ii
+Gočárova
+Dubenecká
+Podlužanská
+Statenická
+K Lánu
+Kolčavka
+Tréglova
+Odborů
+K Nouzovu
+Kroftova
+Cihlářská
+Cafourkova
+Slávy Horníka
+Pod Turnovskou Tratí
+Folmavská
+Jansenova
+Štursova
+K Chumberku
+Ledčická
+Božkova
+Příčka
+Baarova
+Archimédova
+Za Hospodou
+Skotská
+K Vizerce
+K Vrcholu
+Diblíkova
+V Ladech
+Drahelická
+Pod Jiráskovou Čtvrtí
+K Sokolovně
+Na Okruhu
+V Bažinách
+Májová
+Kolovečská
+Liliová
+Vostrého
+K Vyhlídce
+Ďáblická
+Malostranské Nábř
+U Voborníků
+Županovická
+Náměstí Jiřího Z Lobkovic
+Telčská
+Tymiánová
+Za Strašnickou Vozovnou
+Květnová
+Koubova
+Povltavská
+Ke Kladivům
+Mrkvičkova
+Sportovců
+Cvikovská
+Strossmayerovo Nám
+Glinkova
+Diviznová
+Vejražkova
+Lyžařská
+Přeštická
+Vocelova
+Macešková
+Tryskovická
+Vítězné Nám
+U Bulhara
+U Vojanky
+Petýrkova
+Žermanická
+Pláničkova
+Nad Popelářkou
+Nepomucká
+Krnovská
+Ohnišťanská
+U Čekárny
+U Výstavby
+Lipanská
+Urešova
+Na Nové Silnici
+Hluboká
+Za Haštalem
+Ke Stinkovskému Rybníku
+Rovnoběžná
+Světova
+Obvodová
+Na Stírce
+Besední
+Hořejší Náb
+Habřická
+Drimlova
+Třebotovská
+U Jedličkova Ústavu
+Náměstí Plukovníka Vlčka
+Londýnská
+V Bambouskách
+Pod Náměstím
+Farní
+U Pejřárny
+Pod Zámečkem
+Habrovská
+Včelničná
+Květinková
+Basilejské Náměstí
+Podle Náhonu
+Nám 14 Října
+Benediktská
+Zlenická
+Na Černé Strouze
+Ravennská
+Nám Barikád
+Koníčkovo Náměstí
+Myslbekova
+Machovcova
+Na Chobotě
+Krásova
+Peckova
+K Hutím
+Na Folimance
+Hálkova
+Žampašská
+Marie Podvalové
+Lesnická
+Polední
+Archeologická
+Ke Kablu
+U Divadla
+Nepelova
+Na Padesátníku I
+Děvínská
+Baňská
+Boršovská
+Olštýnská
+Pod Pekařkou
+Táboritská
+Bořetínská
+Žabovřeská
+Levá
+Borovnická
+Ordovická
+Červený Mlýn
+U Klubu
+Mylnerovka
+Výtvarnická
+Nušlova
+Pod Děkankou
+Sedmnáctého Listopadu
+Vraňanská
+Holubkova
+Arbesovo Náměstí
+Prachnerova
+Prefátova
+Pod Marjánkou
+Borovanská
+Dolejškova
+Cementářská
+Roháčova
+Měcholupská
+Na Paloučku
+Mejstříkova
+Cukrovarnická
+Rosečská
+Návětrná
+Strojírenská
+Pod Hradem
+Jungmannovo Náměstí
+Jihozápadní Ii
+Pelclova
+Lozická
+Kaplanova
+Cukrovarská
+Jasanová
+Pelzova
+Nad Hercovkou
+Sulická
+Nad Kotlaskou V
+Litošická
+U Botiče
+Markétská
+Fischlova
+Provozní
+Pod Bahnivkou
+Hostýnská
+Na Valech

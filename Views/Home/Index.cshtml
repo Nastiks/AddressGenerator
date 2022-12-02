@@ -1,0 +1,83 @@
+﻿@using AddressGenerator.Controllers
+@model List<User>
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div>
+    <h1 class="display-6" style="margin-bottom: 1em;">Generating fake user data</h1>
+    <form asp-action="Index" method="get" style="display: inline-flex;">
+        <div class="input-group mb-2">
+            <label style="margin: 0.5em;" for="region"> Select a region: </label>
+            <select name="region" style="height: 2.5em;" class="w-40 p-1">
+                <option value="Croatia">Croatia / Hrvatska &#127754;</option>
+                <option value="Czech">Czech / Česko &#127750;</option>
+                <option value="Deutschland">Germany / Deutschland &#127970;</option>
+            </select>
+        </div>
+        <div class="input-group mb-2">
+            <input name="numberErrors" style="height: 2.5em;" placeholder="Number of errors per record" type="text" class="w-40 p-1" id="demo" maxlength="3" onchange="setSlider(this)" /><br>
+            <input style="height: 2.5em; margin: 0.5em;" type="range" min="0" max="10" step="0.25" oninput="myFunction(this)"
+                   value="5" class="slider" id="myRange" />
+        </div>
+        <div class="input-group mb-2">
+            <input type="button" style="height: 2.5em;" class="btn btn-success" value="Random" onclick="getRandomArbitrary(0, 10_000_000)">
+            <input name="seed" type="text" class="form-control w-40 p-1" id="result"
+                   placeholder="Enter or generate the seed value"
+                   aria-describedby="basic-addon2" style="height: 2.5em;">
+        </div>
+        <input style="width: 16em; height: 2.5em; margin-left: 1em;" class="w-40 p-1 btn btn-outline-warning" type="submit" value="GENERATE" />
+    </form>
+</div>
+
+<div class="scroll-table">
+    <table class="table">
+        <thead>
+            <tr>
+                <th scope="col">#</th>
+                <th scope="col">Id</th>
+                <th scope="col">Full name</th>
+                <th scope="col">Address</th>
+                <th scope="col">Phone number</th>
+            </tr>
+        </thead>
+    </table>
+    <div class="scroll-table-body">
+        <table>
+            <tbody>
+                @for (int i = 1; i <= Model.Count(); i++)
+                {
+                    <tr class="item">
+                        <th scope="row">@i</th>
+                        <td>@Model[i - 1].Id</td>
+                        <td>@Model[i - 1].FullName</td>
+                        <td>
+                            @Model[i - 1].Address
+                        </td>
+                        <td>
+                            @Model[i - 1].Phone
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>
+
+<script>
+    var slider = document.getElementById("myRange");
+    var output = document.getElementById("demo");
+    output.value = slider.value;
+    function myFunction(x) {
+        output.value = x.value;
+    }
+    function setSlider(x) {
+        slider.value = x.value;
+    }
+    function getRandomArbitrary(min, max) {
+        min = Math.ceil(min);
+        max = Math.floor(max);
+        let result = Math.floor(Math.random() * (max - min) + min);
+        document.getElementById('result').value = result;
+    }
+</script>

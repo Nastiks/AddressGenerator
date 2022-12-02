@@ -1,0 +1,17 @@
+BadenWürttemberg
+Bayern
+Berlin
+Brandenburg
+Freie Hansestadt Bremen
+Hamborg
+Hessen
+MecklenburgVorpommern
+Niedersachsen
+NordrheinWestfalen
+RheinlandPfalz
+Saarland
+Sachsen
+SachsenAnhalt
+SchleswigHolstein
+Thüringen
+Deutschland
